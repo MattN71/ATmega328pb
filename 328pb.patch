@@ -1,0 +1,10 @@
+--- binutils/size.c	2017-03-27 00:39:29.000000000 -0400
++++ binutils/size.c	2017-03-27 00:42:00.000000000 -0400
+@@ -195,6 +195,7 @@
+ 	{"atmega3250p",   AVR32K,  AVR2K,  AVR1K},
+ 	{"atmega328",     AVR32K,  AVR2K,  AVR1K},
+ 	{"atmega328p",    AVR32K,  AVR2K,  AVR1K},
++	{"atmega328pb",   AVR32K,  AVR2K,  AVR1K},
+ 	{"atmega329",     AVR32K,  AVR2K,  AVR1K},
+ 	{"atmega329a",    AVR32K,  AVR2K,  AVR1K},
+ 	{"atmega329p",    AVR32K,  AVR2K,  AVR1K},
